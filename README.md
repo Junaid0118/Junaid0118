@@ -38,11 +38,11 @@ Technologies: Ruby on Rails, GraphQL, JQuery, Vanilla JS
 
 ## 🛠️ Skills
 
-- **Backend:** Ruby on Rails, Sinatra
+- **Backend:** Ruby on Rails, Sinatra, Python, Django, Flask, MCP, Fast API
 - **Frontend:** JavaScript, React.js, TypeScript
 - **Mobile Development:** React Native
-- **Database (ORM):** ActiveRecord, Sequel, PostgreSQL, SQLite, MySQL
-- **DevOps:** Docker, Elastic Beanstalk, EC2, Heroku, S3, SNS & SQS
+- **Database (ORM):** ActiveRecord, Sequel, PostgreSQL, SQLite, MySQL, MonogoDB
+- **DevOps:** Docker, Elastic Beanstalk, EC2, Heroku, S3, SNS & SQS, Lambda, STEP function, Fargate, Kafka, Kinesis, ECS, ECR
 - **APIs:** JBuilder, RABL, Serializer, GraphQL
 - **Third-Party Integrations:** Maxio Chargify, Asana, Stripe, OpenID, Twilio Flex, Split.io, Segment IO
 - **Error Tracking Tools:** Sentry, CloudWatch, New Relic
